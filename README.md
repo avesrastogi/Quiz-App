@@ -1,5 +1,5 @@
 # Quiz-App
-Created with vannila JavaScript
+Created with vanilla JavaScript
 Screenshots:
 ![Screenshot from 2020-11-28 00-36-11](https://user-images.githubusercontent.com/55761079/100478679-f0421600-3111-11eb-8e0a-5b7614ea36b6.png)
 ![Screenshot from 2020-11-28 00-36-15](https://user-images.githubusercontent.com/55761079/100478702-094ac700-3112-11eb-836c-2b124379d411.png)
